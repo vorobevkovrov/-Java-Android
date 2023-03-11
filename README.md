@@ -1,5 +1,4 @@
 # Список тестовых заданий для Junior Java/Android разработчиков.
-### [Титан тестовое.](https://docs.google.com/document/d/1peoDqaNraEL5jW3kMWPSQevLvKNwyOjC0KNOigfQTNM/edit) 
 ### [СКБ Контур.](https://drive.google.com/drive/folders/1zhJUFNYc8KJkLNOmPueoQkaiZCv5kodM) 
 ### [Тестовое задание на позицию backend разработчика](https://github.com/waliot/test-tasks/blob/master/tasks/backend-1.md) 
 ### [Тестовое задание - Java кодер](https://docs.google.com/document/d/1f5frd0d_sQk471oeznTnHpc-YSo9EfkQ3avHpxy4TtE/edit) 
