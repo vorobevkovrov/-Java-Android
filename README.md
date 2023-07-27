@@ -6,7 +6,6 @@
 ### [Тестовое задание на Android разработку](https://github.com/KazanExpress/android-test-task) 
 ### [Тестовое задание на Android разработку #2](https://github.com/KazanExpress/ke-test-android) 
 ### [Тестовое задания для кандидатов в бэкенд разработку](https://github.com/KazanExpress/backend-spring-test-task) 
-### [KazanExpress test for Java/Kotlin backend developer](https://github.com/KazanExpress/wms-backend-test-task)
 ### [ТЗ_Java](https://drive.google.com/file/d/17g9-4HTkBtJln-3I-iavMqWkX9bBYcg2/view)
 ### [Тестовое задание от Haulmont](https://github.com/nikolaychernov/StudentDatabase)
 ### [Квалификационные задания для Java разработчиков](https://dl.funbox.ru/qt-java.pdf)
