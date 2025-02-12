@@ -19,3 +19,4 @@
 ### [SimpleConsoleCalculator](https://github.com/mondayish/SimpleConsoleCalculator/blob/master/README.md)
 ### [Тестовое задание на позицию стажера/junior бекенд разработчика в юнит Авто](https://github.com/avito-tech/auto-backend-trainee-assignment)
 ### [Тестовое задание на стажировку JavaRush](https://drive.google.com/drive/folders/1YW13ZWqdEhLXkTCsLdcbR3_xsCrc1Yks?usp=sharing)
+### [Тестовое задание на стажировку Центр Финансовых Технологий](https://drive.google.com/file/d/1VGVC9d0UxX6iP4YDaXZLFDSJNZg0h7Js/view?usp=sharing)
